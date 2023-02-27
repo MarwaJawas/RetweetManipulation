@@ -7,5 +7,5 @@ I developed a new method that detects fake retweeter's based on their Twitter's 
 <li> building a graph based on user's retweeting activity </li>
 <li> extract some features: temporal, profile,  connection in the network </li>
 </ol>
-Finally, that results in predict fake retweeters based on top important feature  <br>
+Finally, that results in predict fake retweeters based on top important feature.  <br>
 All code with Python
