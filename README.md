@@ -3,8 +3,8 @@ you can find in this link in <a href="https://kausp.sa/Details/Thesis/146506/"> 
 I developed a new method that detects fake retweeter's based on their Twitter's connection. It consists from 4 compontent: <br>
 <ol>
 <li> collecting data Using Twitter API </li>
-<li> extracting data and buliding database </li> 
+<li> extracting data and building a database </li> 
 <li> building graph based on user's retweeing activity </li>
-<li> extract some feature: temporal , profile,  connection in network </li>
+<li> extract some features: temporal, profile,  connection in the network </li>
 </ol>
-Finally, that results on predicet fake retweeter based on top important feature  <br>
+Finally, that results in prdict fake retweeter based on top important feature  <br>
