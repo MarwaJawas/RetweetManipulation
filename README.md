@@ -8,3 +8,4 @@ I developed a new method that detects fake retweeter's based on their Twitter's 
 <li> extract some features: temporal, profile,  connection in the network </li>
 </ol>
 Finally, that results in predict fake retweeters based on top important feature  <br>
+All code with Python
