@@ -14,6 +14,9 @@ I developed a new method that detects fake retweeter's based on their Twitter's 
 Finally, that results in predict fake retweeters based on top important feature.  <br>
 All code with Python 
 
+# Getting Started
+## Installing
+install many packages that can be installed using pip:
 
 ```
 pip install tweepy
