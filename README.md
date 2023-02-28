@@ -1,4 +1,4 @@
-##This repository contains the source code of my master's thesis titled (Structures of Retweets Manipulation on Twitter: Case Study of Trending Topics in Saudi Arabia)
+##This repository contains the source code of my master's thesis :mortar_board: titled (Structures of Retweets Manipulation on Twitter: Case Study of Trending Topics in Saudi Arabia)
  you can find it in this link in [Thesis](<https://kausp.sa/Details/Thesis/146506/>)
 
 I developed a new method that detects fake retweeter's based on their Twitter's connection. It consists of 4 components: <br>
