@@ -18,3 +18,4 @@ All code with Python
 First, installing many packages
 ## installing
 pybadges can be installed using pip:
+tweepy
