@@ -18,9 +18,7 @@ All code with Python
 First, installing many packages
 ## installing
 pybadges can be installed using pip:
-tweepy
+
 ```
-function test() {
-  console.log("notice the blank line before this function?");
-}
+pip install tweepy
 ```
