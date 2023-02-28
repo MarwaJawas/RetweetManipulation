@@ -14,11 +14,12 @@ I developed a new method that detects fake retweeter's based on their Twitter's 
 Finally, that results in predict fake retweeters based on top important feature.  <br>
 All code with Python 
 
-# Getting started
-First, installing many packages
-## installing
-pybadges can be installed using pip:
 
 ```
 pip install tweepy
+pip install combinations
+pip install sqlite3 
+pip install networkx
+pip install community
+pip install pandas
 ```
