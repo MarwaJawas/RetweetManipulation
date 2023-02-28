@@ -9,4 +9,4 @@ I developed a new method that detects fake retweeter's based on their Twitter's 
 <li> extract some features: temporal, profile,  connection in the network </li>
 </ol>
 Finally, that results in predict fake retweeters based on top important feature.  <br>
-All code with Python
+All code with Python [![Up to Date](https://github.com/ikatyang/emoji-cheat-sheet/workflows/Up%20to%20Date/badge.svg)](https://github.com/ikatyang/emoji-cheat-sheet/actions?query=workflow%3A%22Up+to+Date%22)
