@@ -26,3 +26,5 @@ pip install networkx
 pip install community
 pip install pandas
 ```
+## Download 
+download this [file](<https://github.com/MarwahJawas/detect_Fake_Retweeters/blob/master/Collecting-Tweets/twitter_keys_access.py>) and set your Twitter's keys
