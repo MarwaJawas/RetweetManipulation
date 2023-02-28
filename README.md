@@ -28,4 +28,4 @@ pip install pandas
 ```
 ## Download 
 download this [file](<https://github.com/MarwahJawas/detect_Fake_Retweeters/blob/master/Collecting-Tweets/twitter_keys_access.py>) and set your Twitter's keys <br>
-download this [file](<>) and set hashtag name inside list
+download this [file](<https://github.com/MarwahJawas/detect_Fake_Retweeters/blob/master/Collecting-Tweets/CursorSearch_Rest.py>) and set hashtag name inside list
