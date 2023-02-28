@@ -1,4 +1,6 @@
-##This repository contains the source code of my master's thesis :mortar_board: titled (Structures of Retweets Manipulation on Twitter: Case Study of Trending Topics in Saudi Arabia)
+# Detect fake retweeters on Twitter's network
+[![Up to Date](https://github.com/ikatyang/emoji-cheat-sheet/workflows/Up%20to%20Date/badge.svg)](https://github.com/ikatyang/emoji-cheat-sheet/actions?query=workflow%3A%22Up+to+Date%22)
+This repository contains the source code of my master's thesis :mortar_board: titled (Structures of Retweets Manipulation on Twitter: Case Study of Trending Topics in Saudi Arabia)
  you can find it in this link in [Thesis](<https://kausp.sa/Details/Thesis/146506/>)
 
 I developed a new method that detects fake retweeter's based on their Twitter's connection. It consists of 4 components: <br>
@@ -9,4 +11,4 @@ I developed a new method that detects fake retweeter's based on their Twitter's 
 <li> extract some features: temporal, profile,  connection in the network </li>
 </ol>
 Finally, that results in predict fake retweeters based on top important feature.  <br>
-All code with Python [![Up to Date](https://github.com/ikatyang/emoji-cheat-sheet/workflows/Up%20to%20Date/badge.svg)](https://github.com/ikatyang/emoji-cheat-sheet/actions?query=workflow%3A%22Up+to+Date%22)
+All code with Python 
