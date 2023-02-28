@@ -1,7 +1,6 @@
 # Detect fake retweeters on Twitter's network
 
-[![Python](https://img.shields.io/badge/Python-3.7-green)](https://www.python.org/) 
-[![Tweepy](https://img.shields.io/badge/Tweepy-3.3.7-blue)](<https://docs.tweepy.org/en/stable/getting_started.html>)\
+
 This repository contains the source code of my master's thesis :mortar_board: titled (Structures of Retweets Manipulation on Twitter: Case Study of Trending Topics in Saudi Arabia)
  you can find it in this link in [Thesis](<https://kausp.sa/Details/Thesis/146506/>)
 
@@ -12,7 +11,9 @@ I developed a new method that detects fake retweeter's based on their Twitter's 
 4. extract some features: temporal, profile,  connection in the network 
 
 Finally, that results in predict fake retweeters based on top important feature. \
-All code with Python 
+All code with Python \
+[![Python](https://img.shields.io/badge/Python-3.7-green)](https://www.python.org/) 
+[![Tweepy](https://img.shields.io/badge/Tweepy-3.3.7-blue)](<https://docs.tweepy.org/en/stable/getting_started.html>)\
 
 # Getting Started
 ## Installing
