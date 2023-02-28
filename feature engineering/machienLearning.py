@@ -257,7 +257,7 @@ featureScores.columns = ['Specs','Score']  #naming the dataframe columns
 print(featureScores.nlargest(10,'Score'))  #print 10 best features
 
 
-AttributeError: 'numpy.ndarray' object has no attribute 'columns'
+
 # Create and fit selector
 selector = SelectKBest(f_classif, k=7)
 selector.fit(X, Y)
