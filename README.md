@@ -15,5 +15,6 @@ Finally, that results in predict fake retweeters based on top important feature.
 All code with Python 
 
 # Getting started
+First, installing many packages
 ## installing
 pybadges can be installed using pip:
