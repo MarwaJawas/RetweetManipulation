@@ -1,6 +1,6 @@
 # Detect fake retweeters on Twitter's network
 
-[![Up to Date](https://img.shields.io/badge/Python-3.3.7-green)](https://github.com/ikatyang/emoji-cheat-sheet/actions?query=workflow%3A%22Up+to+Date%22)
+[![Up to Date](https://img.shields.io/badge/Python-3.7-green)](https://github.com/ikatyang/emoji-cheat-sheet/actions?query=workflow%3A%22Up+to+Date%22)
 This repository contains the source code of my master's thesis :mortar_board: titled (Structures of Retweets Manipulation on Twitter: Case Study of Trending Topics in Saudi Arabia)
  you can find it in this link in [Thesis](<https://kausp.sa/Details/Thesis/146506/>)
 
