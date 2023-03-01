@@ -76,7 +76,7 @@ if gen_rt_graph(): print ('Retweeter Graph was generated: ','#Nodes:',retweeter_
 if clean_rt_graph(): print ('Retweeter graph was cleaned (weight with less than 3 were removed)','#Nodes:',retweeter_graph.number_of_nodes(),' #Edges:',retweeter_graph.number_of_edges())
 
 #4) Write edge list to a file (for later use)
-if write_edgelist('aletihad_ alhilal'): print ('Edge list was exported to file..')
+if write_edgelist('yourName'): print ('Edge list was exported to file..')
 
 #5) Generate parition based on Louvain algorithm (and export to CSV)
-if partition(retweeter_graph,'aletihad_ alhilal',to_csv=True): print ('Partitions were generated and key-value list was exported to csv file')
+if partition(retweeter_graph,'yourName',to_csv=True): print ('Partitions were generated and key-value list was exported to csv file')
