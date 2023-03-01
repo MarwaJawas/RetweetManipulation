@@ -19,6 +19,7 @@ All code with Python \
 [![networkx](https://img.shields.io/badge/networkx-2.4-lightgrey)](<https://networkx.org/>)
 [![tqdm](https://img.shields.io/badge/tqdm-4.36.1-yellowgreen)](<https://tqdm.github.io/>)
 [![community](https://img.shields.io/badge/community%20-0.13-orange)](<https://pypi.org/project/communities/>)
+[![pandas](https://img.shields.io/badge/pandas%20-0.25.2-brightgreen)](<https://pandas.pydata.org/>)
 
 # Getting Started
 ## Collecting Twitter's data
