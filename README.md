@@ -13,7 +13,7 @@ I developed a new method that detects fake retweeter's based on their Twitter's 
 Finally, that results in predict fake retweeters based on top important feature. \
 All code with Python \
 [![Python](https://img.shields.io/badge/Python-3.7-green)](https://www.python.org/) 
-[![Tweepy](https://img.shields.io/badge/Tweepy-3.3.7-blue)](<https://docs.tweepy.org/en/stable/getting_started.html>)\
+[![Tweepy](https://img.shields.io/badge/Tweepy-3.3.7-blue)](<https://docs.tweepy.org/en/stable/getting_started.html>)
 
 # Getting Started
 ## Installing
