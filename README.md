@@ -99,7 +99,6 @@ install many packages that can be installed using pip:
 ```
 pip install dateutil.parser
 pip install datetime
-pip install statistics 
 ```
 download [extracting features](<https://github.com/MarwahJawas/detect_Fake_Retweeters/blob/master/feature%20engineering/all_features.py>)
 and set your file name in line 397:
