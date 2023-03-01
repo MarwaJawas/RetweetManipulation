@@ -94,6 +94,17 @@ set your file name in line 82:
 ```
 if partition(retweeter_graph,'yourName',to_csv=True): print ('Partitions were generated and key-value list was exported to csv file')
 ```
-7. download [extracting features](<https://github.com/MarwahJawas/detect_Fake_Retweeters/blob/master/feature%20engineering/all_features.py>)
+## Extracting features
+install many packages that can be installed using pip:
+```
+pip install math
+pip install dateutil.parser
+pip install datetime
+pip install statistics 
+```
+download [extracting features](<https://github.com/MarwahJawas/detect_Fake_Retweeters/blob/master/feature%20engineering/all_features.py>)
+set your file name in line 82:
+```
+```
 8. download [machine learning test](<https://github.com/MarwahJawas/detect_Fake_Retweeters/blob/master/feature%20engineering/classification.py>) 
 
