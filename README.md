@@ -16,6 +16,7 @@ All code with Python \
 [![sklearn](https://img.shields.io/badge/sklearn-1.0.2-orange)](<https://scikit-learn.org/1.0/>)
 [![tweepy](https://img.shields.io/badge/Tweepy-3.7.0-red)](<https://docs.tweepy.org/en/stable/changelog.html#version-3-7-0-2018-11-27>)
 [![json](https://img.shields.io/badge/json-2.0.9-blue)](<https://docs.python.org/3/library/json.html>)
+[![networkx](https://img.shields.io/badge/networkx-2.4-lightgrey)](<https://networkx.org/>)
 
 # Getting Started
 ## Collecting Twitter's data
