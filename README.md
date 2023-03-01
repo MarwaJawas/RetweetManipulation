@@ -16,8 +16,24 @@ All code with Python \
 [![Tweepy](https://img.shields.io/badge/Tweepy-3.3.7-blue)](<https://docs.tweepy.org/en/stable/getting_started.html>)
 
 # Getting Started
-## Installing
-install many packages that can be installed using pip:
+## 1.Collecting Twitter's data
+# Installing
+install tweepy packages that can be installed using pip:
+
+```
+pip install tweepy
+```
+## Download and run  
+download [Twitter keys](<https://github.com/MarwahJawas/detect_Fake_Retweeters/blob/master/Collecting-Tweets/twitter_keys_access.py>) and set your own Twitter's keys <br>
+```
+
+```
+3. download [cursor search](<https://github.com/MarwahJawas/detect_Fake_Retweeters/blob/master/Collecting-Tweets/CursorSearch_Rest.py>) and set hashtag name inside list
+4. download [create database](<https://github.com/MarwahJawas/detect_Fake_Retweeters/blob/master/createSqLiteDatabaes/create-Table.py>) to create sqLite database
+5. download [insert data](<https://github.com/MarwahJawas/detect_Fake_Retweeters/blob/master/createSqLiteDatabaes/insert-Data.py>) and set name of the database
+6. download [construct graph](<https://github.com/MarwahJawas/detect_Fake_Retweeters/blob/master/Graph%20Construction/base_graph_to_rt_graph.py>)
+7. download [extracting features](<https://github.com/MarwahJawas/detect_Fake_Retweeters/blob/master/feature%20engineering/all_features.py>)
+8. download [machine learning test](<https://github.com/MarwahJawas/detect_Fake_Retweeters/blob/master/feature%20engineering/classification.py>) 
 
 ```
 pip install tweepy
@@ -27,11 +43,3 @@ pip install networkx
 pip install community
 pip install pandas
 ```
-## Download and run  
-1. download [Twitter keys](<https://github.com/MarwahJawas/detect_Fake_Retweeters/blob/master/Collecting-Tweets/twitter_keys_access.py>) and set your Twitter's keys <br>
-2. download [cursor search](<https://github.com/MarwahJawas/detect_Fake_Retweeters/blob/master/Collecting-Tweets/CursorSearch_Rest.py>) and set hashtag name inside list
-3. download [create database](<https://github.com/MarwahJawas/detect_Fake_Retweeters/blob/master/createSqLiteDatabaes/create-Table.py>) to create sqLite database
-4. download [insert data](<https://github.com/MarwahJawas/detect_Fake_Retweeters/blob/master/createSqLiteDatabaes/insert-Data.py>) and set name of the database
-5. download [construct graph](<https://github.com/MarwahJawas/detect_Fake_Retweeters/blob/master/Graph%20Construction/base_graph_to_rt_graph.py>)
-6. download [extracting features](<https://github.com/MarwahJawas/detect_Fake_Retweeters/blob/master/feature%20engineering/all_features.py>)
-7. download [machine learning test](<https://github.com/MarwahJawas/detect_Fake_Retweeters/blob/master/feature%20engineering/classification.py>) 
