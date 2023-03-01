@@ -72,7 +72,17 @@ set file's name
 ```
 with open('yourJsonName.json','r') as fh:
 ```
-6. download [construct graph](<https://github.com/MarwahJawas/detect_Fake_Retweeters/blob/master/Graph%20Construction/base_graph_to_rt_graph.py>)
+## Constructing graph
+install many packages that can be installed using pip:
+```
+pip install itertools 
+pip install networkx
+pip install tqdm
+pip install community 
+pip install pandas
+```
+download [construct graph](<https://github.com/MarwahJawas/detect_Fake_Retweeters/blob/master/Graph%20Construction/base_graph_to_rt_graph.py>)
+
 7. download [extracting features](<https://github.com/MarwahJawas/detect_Fake_Retweeters/blob/master/feature%20engineering/all_features.py>)
 8. download [machine learning test](<https://github.com/MarwahJawas/detect_Fake_Retweeters/blob/master/feature%20engineering/classification.py>) 
 
