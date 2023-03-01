@@ -41,7 +41,13 @@ ACCESS_TOKEN_SECRET = ""
 if you don't have developer account , you can sign up from [here](<https://developer.twitter.com/en/support/twitter-api/developer-account#faq-developer-account>) 
 
 
-3. download [cursor search](<https://github.com/MarwahJawas/detect_Fake_Retweeters/blob/master/Collecting-Tweets/CursorSearch_Rest.py>) and set hashtag name inside list
+download [cursor search](<https://github.com/MarwahJawas/detect_Fake_Retweeters/blob/master/Collecting-Tweets/CursorSearch_Rest.py>)
+set hashtag name inside list
+```
+search_words=["#  ",
+           "#  " ,
+             "# "]  
+```
 4. download [create database](<https://github.com/MarwahJawas/detect_Fake_Retweeters/blob/master/createSqLiteDatabaes/create-Table.py>) to create sqLite database
 5. download [insert data](<https://github.com/MarwahJawas/detect_Fake_Retweeters/blob/master/createSqLiteDatabaes/insert-Data.py>) and set name of the database
 6. download [construct graph](<https://github.com/MarwahJawas/detect_Fake_Retweeters/blob/master/Graph%20Construction/base_graph_to_rt_graph.py>)
