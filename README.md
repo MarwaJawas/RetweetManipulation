@@ -41,8 +41,7 @@ ACCESS_TOKEN_SECRET = ""
 if you don't have developer account , you can sign up from [here](<https://developer.twitter.com/en/support/twitter-api/developer-account#faq-developer-account>) 
 
 
-download [cursor search](<https://github.com/MarwahJawas/detect_Fake_Retweeters/blob/master/Collecting-Tweets/CursorSearch_Rest.py>)
-set hashtag name inside list
+download [cursor search](<https://github.com/MarwahJawas/detect_Fake_Retweeters/blob/master/Collecting-Tweets/CursorSearch_Rest.py>) and set hashtag name inside list
 ```
 search_words=["#  ",
            "#  " ,
