@@ -1,4 +1,4 @@
-# Detect fake retweeters on Twitter's network
+# Detect fake retweeters on Twitter's network!
 
 
 This repository contains the source code of my master's thesis :mortar_board: titled (Structures of Retweets Manipulation on Twitter: Case Study of Trending Topics in Saudi Arabia), 
