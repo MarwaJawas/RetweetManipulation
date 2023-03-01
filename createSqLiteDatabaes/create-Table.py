@@ -4,8 +4,8 @@ import sqlite3 as lite
 import sys
  
 try:
-    #con = lite.connect('Retweet_manipulation.db')
-    con = lite.connect('Annual_bonus.db')
+    
+    con = lite.connect('yourNameDataBase.db')
     cur = con.cursor()
     cur.execute('''
                 CREATE TABLE tweet
