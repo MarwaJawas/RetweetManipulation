@@ -86,14 +86,14 @@ set your database name in line 66:
 ```
 db = 'yourDataBaseName.db'
 ```
+set your file name in line 79:
+```
+if write_edgelist('yourName'): print ('Edge list was exported to file..')
+```
+set your file name in line 79:
+```
+if partition(retweeter_graph,'yourName',to_csv=True): print ('Partitions were generated and key-value list was exported to csv file')
+```
 7. download [extracting features](<https://github.com/MarwahJawas/detect_Fake_Retweeters/blob/master/feature%20engineering/all_features.py>)
 8. download [machine learning test](<https://github.com/MarwahJawas/detect_Fake_Retweeters/blob/master/feature%20engineering/classification.py>) 
 
-```
-pip install tweepy
-pip install combinations
-pip install sqlite3 
-pip install networkx
-pip install community
-pip install pandas
-```
