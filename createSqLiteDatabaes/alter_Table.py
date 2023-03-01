@@ -49,5 +49,4 @@ finally:
     if con:
         con.close()
 
-conn.execute("PRAGMA foreign_keys = 1")
-cur=conn.cursor()
+
