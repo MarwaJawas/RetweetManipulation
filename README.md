@@ -16,14 +16,14 @@ All code with Python \
 [![Tweepy](https://img.shields.io/badge/Tweepy-3.3.7-blue)](<https://docs.tweepy.org/en/stable/getting_started.html>)
 
 # Getting Started
-## 1.Collecting Twitter's data
-# Installing
+## Collecting Twitter's data
+### Installing
 install tweepy packages that can be installed using pip:
 
 ```
 pip install tweepy
 ```
-## Download and run  
+### Download and run  
 download [Twitter keys](<https://github.com/MarwahJawas/detect_Fake_Retweeters/blob/master/Collecting-Tweets/twitter_keys_access.py>) <br>
 set your own Twitter's access keys
 
