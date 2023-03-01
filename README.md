@@ -71,8 +71,7 @@ with open('yourJsonName.json','r') as fh:
 ```
 ## Constructing graph
 install many packages that can be installed using pip:
-```
-pip install itertools 
+``` 
 pip install networkx
 pip install tqdm
 pip install community 
