@@ -22,6 +22,7 @@ install tweepy packages that can be installed using pip:
 
 ```
 pip install tweepy
+pip install json
 ```
 ### Download and run  
 download [Twitter keys](<https://github.com/MarwahJawas/detect_Fake_Retweeters/blob/master/Collecting-Tweets/twitter_keys_access.py>) <br>
