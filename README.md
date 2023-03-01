@@ -51,12 +51,7 @@ search_words=["#  ",
              "# "]  
 ```
 ## Storting row data in a database
-### Installing
 
-install sqlite3 packages that can be installed using pip:
-```
-pip install sqlite3 
-```
 
 ### Download and run  
 download [create database](<https://github.com/MarwahJawas/detect_Fake_Retweeters/blob/master/createSqLiteDatabaes/create-Table.py>) to create sqLite database\
