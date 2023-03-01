@@ -427,11 +427,7 @@ with open('yourJsonName.json','r') as reader:
                 
         else:
               continue
-                
-
-
-            
-                
+               
 df3 = pd.DataFrame(all_result_features, columns=['groupID', 'inter_posting_time_compactness', 'retweeting_time_distribution_sd',
 'retweeting_time_distribution_mean', 'retweeting_time_distribution_cov', 'cov_response_time',
 'user_creation_time_distribution_sd', 'user_creation_time_distribution_mean', 'user_creation_time_distribution_cov', 'avg_neighbor_degree_entropy', 'avg_neighbor_degree_sd', 'avg_neighbor_degree_mean','avg_neighbor_degree_cov','avg_degree_connectivity_entropy', 'avg_degree_connectivity_sd','avg_degree_connectivity_mean','avg_degree_connectivity_cov','digitsInScreenName_entropy', 'hashtagsInUserName_entropy',
@@ -439,12 +435,5 @@ df3 = pd.DataFrame(all_result_features, columns=['groupID', 'inter_posting_time_
         'mention_in_bio_entropy', 'hashtags_in_bio_entropy', 'length_screen_name_entropy','length_user_name_entropy',
     'statuses_count_entropy', 'listed_count_entropy', 'favourites_count_entropy','standard_dev_statuses_count', 'standard_dev_listed_count' , 'standard_dev_favourites_count','url_in_tweet_list_entropy','mention_in_tweet_list_entropy','label'])
 
-                                                 
- 
-
-
-df3.to_csv('extracted_amar_malki_feat.csv', sep=',', encoding='utf-8',index=False)
-
-
-
+df3.to_csv('yourNameFile.csv', sep=',', encoding='utf-8',index=False)
 
