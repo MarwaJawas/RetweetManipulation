@@ -38,6 +38,9 @@ set key authentication
 ACCESS_TOKEN = ""
 ACCESS_TOKEN_SECRET = ""
 ```
+if you don't have developer account , you can sign up from [here](<https://developer.twitter.com/en/support/twitter-api/developer-account#faq-developer-account>) 
+
+
 3. download [cursor search](<https://github.com/MarwahJawas/detect_Fake_Retweeters/blob/master/Collecting-Tweets/CursorSearch_Rest.py>) and set hashtag name inside list
 4. download [create database](<https://github.com/MarwahJawas/detect_Fake_Retweeters/blob/master/createSqLiteDatabaes/create-Table.py>) to create sqLite database
 5. download [insert data](<https://github.com/MarwahJawas/detect_Fake_Retweeters/blob/master/createSqLiteDatabaes/insert-Data.py>) and set name of the database
