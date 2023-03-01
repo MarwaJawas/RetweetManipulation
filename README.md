@@ -29,6 +29,8 @@ install tweepy and json packages that can be installed using pip:
 
 ```
 pip install tweepy
+```
+```
 pip install json
 ```
 ### Download and run  
@@ -78,8 +80,14 @@ with open('yourJsonName.json','r') as fh:
 install many packages that can be installed using pip:
 ``` 
 pip install networkx
+```
+``` 
 pip install tqdm
+```
+``` 
 pip install community 
+```
+``` 
 pip install pandas
 ```
 download [construct graph](<https://github.com/MarwahJawas/detect_Fake_Retweeters/blob/master/Graph%20Construction/base_graph_to_rt_graph.py>)
@@ -118,6 +126,8 @@ df3.to_csv('yourNameFile.csv', sep=',', encoding='utf-8',index=False)
 install
 ```
 pip install sklearn
+```
+```
 pip install numpy
 ```
 download [machine learning test](<https://github.com/MarwahJawas/detect_Fake_Retweeters/blob/master/feature%20engineering/classification.py>) 
