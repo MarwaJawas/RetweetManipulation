@@ -15,7 +15,7 @@ All code with Python \
 [![Python](https://img.shields.io/badge/Python-3.7.3-blue)](https://www.python.org/) 
 [![sklearn](https://img.shields.io/badge/sklearn-1.0.2-orange)](<https://scikit-learn.org/1.0/>)
 [![tweepy](https://img.shields.io/badge/Tweepy-3.7.0-red)](<https://docs.tweepy.org/en/stable/changelog.html#version-3-7-0-2018-11-27>)
-[![json](https://img.shields.io/badge/json-2.0.9-blue)](<https://docs.python.org/3/library/json.html>)
+[![json](https://img.shields.io/badge/json-2.0.9-blue)](<https://docs.python.org/3/library/json.html>) <br>
 [![networkx](https://img.shields.io/badge/networkx-2.4-lightgrey)](<https://networkx.org/>)
 [![tqdm](https://img.shields.io/badge/tqdm-4.36.1-yellowgreen)](<https://tqdm.github.io/>)
 [![community](https://img.shields.io/badge/community%20-0.13-orange)](<https://pypi.org/project/communities/>)
