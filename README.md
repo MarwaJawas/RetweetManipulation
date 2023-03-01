@@ -60,12 +60,17 @@ pip install sqlite3
 download [create database](<https://github.com/MarwahJawas/detect_Fake_Retweeters/blob/master/createSqLiteDatabaes/create-Table.py>) to create sqLite database\
 set your database name
 ```
-con = lite.connect('yourName.db')
+con = lite.connect('yourDataBaseName.db')
 ```
 download [insert data](<https://github.com/MarwahJawas/detect_Fake_Retweeters/blob/master/createSqLiteDatabaes/insert-Data.py>) 
 set name of the database
 ```
-con = lite.connect('yourName.db')
+con = lite.connect('yourDataBaseName.db')
+  
+```
+set file's name
+```
+with open('yourJsonName.json','r') as fh:
 ```
 6. download [construct graph](<https://github.com/MarwahJawas/detect_Fake_Retweeters/blob/master/Graph%20Construction/base_graph_to_rt_graph.py>)
 7. download [extracting features](<https://github.com/MarwahJawas/detect_Fake_Retweeters/blob/master/feature%20engineering/all_features.py>)
