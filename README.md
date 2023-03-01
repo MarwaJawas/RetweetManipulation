@@ -24,9 +24,19 @@ install tweepy packages that can be installed using pip:
 pip install tweepy
 ```
 ## Download and run  
-download [Twitter keys](<https://github.com/MarwahJawas/detect_Fake_Retweeters/blob/master/Collecting-Tweets/twitter_keys_access.py>) and set your own Twitter's keys <br>
+download [Twitter keys](<https://github.com/MarwahJawas/detect_Fake_Retweeters/blob/master/Collecting-Tweets/twitter_keys_access.py>) <br>
+set your own Twitter's access keys
+
+```
+CONSUMER_KEY = ""
+CONSUMER_SECRET =  ""
 ```
 
+set key authentication
+
+```
+ACCESS_TOKEN = ""
+ACCESS_TOKEN_SECRET = ""
 ```
 3. download [cursor search](<https://github.com/MarwahJawas/detect_Fake_Retweeters/blob/master/Collecting-Tweets/CursorSearch_Rest.py>) and set hashtag name inside list
 4. download [create database](<https://github.com/MarwahJawas/detect_Fake_Retweeters/blob/master/createSqLiteDatabaes/create-Table.py>) to create sqLite database
