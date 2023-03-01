@@ -116,11 +116,14 @@ set your file name in line 401:
 with open('yourJsonName.json','r') as reader:
 ```
 set your file name in line 438:
+```
 df3.to_csv('yourNameFile.csv', sep=',', encoding='utf-8',index=False)
+```
 ## predict the fake group of retweeters
 install
 ```
 pip install sklearn
+pip install numpy
 ```
 download [machine learning test](<https://github.com/MarwahJawas/detect_Fake_Retweeters/blob/master/feature%20engineering/classification.py>) 
 
