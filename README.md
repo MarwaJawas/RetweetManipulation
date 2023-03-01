@@ -18,7 +18,7 @@ All code with Python \
 # Getting Started
 ## Collecting Twitter's data
 ### Installing
-install tweepy packages that can be installed using pip:
+install tweepy and json packages that can be installed using pip:
 
 ```
 pip install tweepy
@@ -49,7 +49,19 @@ search_words=["#  ",
              "# "]  
 ```
 ## Storting row data in a database
-4. download [create database](<https://github.com/MarwahJawas/detect_Fake_Retweeters/blob/master/createSqLiteDatabaes/create-Table.py>) to create sqLite database
+### Installing
+
+install sqlite3 packages that can be installed using pip:
+```
+pip install sqlite3 
+```
+
+### Download and run  
+download [create database](<https://github.com/MarwahJawas/detect_Fake_Retweeters/blob/master/createSqLiteDatabaes/create-Table.py>) to create sqLite database\
+set your database name
+```
+con = lite.connect('yourName.db')
+```
 5. download [insert data](<https://github.com/MarwahJawas/detect_Fake_Retweeters/blob/master/createSqLiteDatabaes/insert-Data.py>) and set name of the database
 6. download [construct graph](<https://github.com/MarwahJawas/detect_Fake_Retweeters/blob/master/Graph%20Construction/base_graph_to_rt_graph.py>)
 7. download [extracting features](<https://github.com/MarwahJawas/detect_Fake_Retweeters/blob/master/feature%20engineering/all_features.py>)
