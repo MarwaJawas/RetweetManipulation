@@ -18,6 +18,7 @@ All code with Python \
 [![json](https://img.shields.io/badge/json-2.0.9-blue)](<https://docs.python.org/3/library/json.html>)
 [![networkx](https://img.shields.io/badge/networkx-2.4-lightgrey)](<https://networkx.org/>)
 [![tqdm](https://img.shields.io/badge/tqdm-4.36.1-yellowgreen)](<https://tqdm.github.io/>)
+[![community](https://img.shields.io/badge/community%20-0.13-orange)](<https://pypi.org/project/communities/>)
 
 # Getting Started
 ## Collecting Twitter's data
