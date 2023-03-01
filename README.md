@@ -20,6 +20,7 @@ All code with Python \
 [![tqdm](https://img.shields.io/badge/tqdm-4.36.1-yellowgreen)](<https://tqdm.github.io/>)
 [![community](https://img.shields.io/badge/community%20-0.13-orange)](<https://pypi.org/project/communities/>)
 [![pandas](https://img.shields.io/badge/pandas%20-0.25.2-brightgreen)](<https://pandas.pydata.org/>)
+[![numpy](https://img.shields.io/badge/numpy%20-1.16.5-yellow)](<https://numpy.org/>)
 
 # Getting Started
 ## Collecting Twitter's data
