@@ -90,7 +90,7 @@ set your file name in line 79:
 ```
 if write_edgelist('yourName'): print ('Edge list was exported to file..')
 ```
-set your file name in line 79:
+set your file name in line 82:
 ```
 if partition(retweeter_graph,'yourName',to_csv=True): print ('Partitions were generated and key-value list was exported to csv file')
 ```
