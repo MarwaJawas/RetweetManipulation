@@ -63,7 +63,7 @@ def partition(graph, name, to_csv=True):
 
 
 #1) load Data
-db = 'aletihad_ alhilal.db'
+db = 'yourDataBaseName.db'
 q = '''SELECT retweeter_id, tweet_id FROM retweet where retweeter_id IN
     (SELECT retweeter_id FROM retweet group by retweeter_id HAVING COUNT(*)>2)'''
 
