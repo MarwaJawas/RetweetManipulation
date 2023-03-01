@@ -1,11 +1,8 @@
 import networkx as nx
-
 import sqlite3 
-
 import pandas as pd
 import numpy as np
 import math
-
 import json
 from collections import Counter
 from itertools import combinations
@@ -345,15 +342,9 @@ def retweeter_tweet_features(label,list_retweeters,name_db):
         rt_user_favourites_count_list.append(retweeter_record[4])
         rt_user_statuses_count_list.append(retweeter_record[5])
         
-        
-            
-            
-   
         #rter = db[collectionName].find({'rt_user_id': user}).limit(1)
         #for i in rter:
-            
-
-
+  
     digitsInScreenName_entropy = entropy(digitsInScreenName_list)
 
     hashtagsInUserName_entropy = entropy(hashtagsInUserName_list)
@@ -399,18 +390,15 @@ def retweeter_tweet_features(label,list_retweeters,name_db):
     
     mention_in_tweet_list_entropy =entropy(mention_in_tweet_list)
     
-    
-    
-    
     return  digitsInScreenName_entropy, hashtagsInUserName_entropy,specialCharacters_uname_entropy,url_in_bio_entropy, mention_in_bio_entropy, hashtags_in_bio_entropy, length_screen_name_entropy,length_user_name_entropy,rt_user_statuses_count_entropy, rt_user_listed_count_entropy, rt_user_favourites_count_entropy, stdev_statuses_count, stdev_listed_count , stdev_favourites_count,url_in_tweet_list_entropy,mention_in_tweet_list_entropy , label
 
 
 ###########################
-G=nx.read_weighted_edgelist("amar_malki.weighted.edgelist")
+G=nx.read_weighted_edgelist("yourName.weighted.edgelist")
 all_result_features=[]
 #read json file 
-name_database='amar_malki.db'
-with open('rtg_amar_malki.json','r') as reader:
+name_database='yourDataBaseName.db'
+with open('yourJsonName.json','r') as reader:
         
     for line in reader:
         #skip empty line
