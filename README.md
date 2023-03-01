@@ -14,6 +14,7 @@ Finally, that results in predict fake retweeters based on top important feature.
 All code with Python \
 [![Python](https://img.shields.io/badge/Python-3.7-green)](https://www.python.org/) 
 [![Tweepy](https://img.shields.io/badge/Tweepy-3.3.7-blue)](<https://docs.tweepy.org/en/stable/getting_started.html>)
+[![sklearn](https://img.shields.io/badge/sklearn-1.0.2-orange)](<https://scikit-learn.org/1.0/>)
 
 # Getting Started
 ## Collecting Twitter's data
