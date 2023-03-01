@@ -97,7 +97,6 @@ if partition(retweeter_graph,'yourName',to_csv=True): print ('Partitions were ge
 ## Extracting features
 install many packages that can be installed using pip:
 ```
-pip install math
 pip install dateutil.parser
 pip install datetime
 pip install statistics 
