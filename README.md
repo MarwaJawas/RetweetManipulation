@@ -62,7 +62,11 @@ set your database name
 ```
 con = lite.connect('yourName.db')
 ```
-5. download [insert data](<https://github.com/MarwahJawas/detect_Fake_Retweeters/blob/master/createSqLiteDatabaes/insert-Data.py>) and set name of the database
+download [insert data](<https://github.com/MarwahJawas/detect_Fake_Retweeters/blob/master/createSqLiteDatabaes/insert-Data.py>) 
+set name of the database
+```
+con = lite.connect('yourName.db')
+```
 6. download [construct graph](<https://github.com/MarwahJawas/detect_Fake_Retweeters/blob/master/Graph%20Construction/base_graph_to_rt_graph.py>)
 7. download [extracting features](<https://github.com/MarwahJawas/detect_Fake_Retweeters/blob/master/feature%20engineering/all_features.py>)
 8. download [machine learning test](<https://github.com/MarwahJawas/detect_Fake_Retweeters/blob/master/feature%20engineering/classification.py>) 
