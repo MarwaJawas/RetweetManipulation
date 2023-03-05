@@ -5,12 +5,12 @@ This repository contains the source code of my master's thesis :mortar_board: ti
  you can find it in this link in [Thesis](<https://kausp.sa/Details/Thesis/146506/>)
 
 Thesis has been proposed a new method that detects fake retweeter's based on their Twitter's connection and some features. It consists of 4 components:<br>
-1. collecting data Using Twitter API 
-2. extracting data and building a database 
-3. building a graph based on user's retweeting activity 
-4. extracting the groups of retweeters
+1. Collecting data Using Twitter API 
+2. Extracting data and building a database 
+3. Building a graph based on user's retweeting activity 
+4. Extracting the groups of retweeters
 4. Annotating the extracted groups based on certain guidelines
-5. extract some features: temporal, profile,  connection in the network 
+5. Extract some features: temporal, profile,  connection in the network 
 
 Finally, that results in predict fake retweeters based on top important feature. \
 All code with Python \
