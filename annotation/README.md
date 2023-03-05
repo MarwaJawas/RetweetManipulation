@@ -1,6 +1,9 @@
 # Annotation is performed based on two criteria.
-## First, categorizing the retweeter groups based on their behaviors in retweeting in hashtag. 
+## First, categorizing the retweeter groups based on their behaviors in retweeting on hashtag. 
 If the retweeter group is retweeting a large number of retweets, the group is labeled as malicious. This feature can be measured by computing weighted degree from retweeter graph. When the weighted degrees between retweeters in group are high, this evidence to malicious retweeting behavior among them.<br />
+download 
+In line 55, set your file name
+In line 77, set your database name
 ## Second, categorizing the retweeter groups by looking at the content of the retweets. 
 Twitter rules and policies were used as a reference for labeling process. The group is labeled as malicious if their tweets content shows one of the following: <br />
 + Multiple posts with similar promotions or similar tweet content.
@@ -8,3 +11,7 @@ Twitter rules and policies were used as a reference for labeling process. The gr
 image.
 + Their tweets contains similar URL to drive traffic to websites.
 + Their tweets contains mentions of similar accounts.
+
+download 
+In line 55, set your file name
+In line 77, set your database name
