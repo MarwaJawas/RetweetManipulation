@@ -2,7 +2,7 @@
 ## First, categorizing the retweeter groups based on their behaviors in retweeting on hashtag. 
 If the retweeter group is retweeting a large number of retweets, the group is labeled as malicious. This feature can be measured by computing weighted degree from retweeter graph. When the weighted degrees between retweeters in group are high, this evidence to malicious retweeting behavior among them.<br />
 
-download [read_Tweets](<https://github.com/MarwahJawas/detect_Fake_Retweeters/blob/master/annotation/read_WeightedDegree.py>) <br>
+download [read_WeightedDegree](<https://github.com/MarwahJawas/detect_Fake_Retweeters/blob/master/annotation/read_WeightedDegree.py>) <br>
 In line 17, set your file name
 ```
 with open("your_File_Name.json",'r') as reader:
