@@ -12,6 +12,6 @@ image.
 + Their tweets contains similar URL to drive traffic to websites.
 + Their tweets contains mentions of similar accounts.
 
-download [!read_Tweets]<https://github.com/MarwahJawas/detect_Fake_Retweeters/blob/master/annotation/read_Tweets.py>
+download [!read_Tweets](<https://github.com/MarwahJawas/detect_Fake_Retweeters/blob/master/annotation/read_Tweets.py>)
 In line 55, set your file name
 In line 77, set your database name
