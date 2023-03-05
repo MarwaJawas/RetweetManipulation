@@ -8,7 +8,9 @@ Thesis has been proposed a new method that detects fake retweeter's based on the
 1. collecting data Using Twitter API 
 2. extracting data and building a database 
 3. building a graph based on user's retweeting activity 
-4. extract some features: temporal, profile,  connection in the network 
+4. extracting the groups of retweeters
+4. Annotating the extracted groups based on certain guidelines
+5. extract some features: temporal, profile,  connection in the network 
 
 Finally, that results in predict fake retweeters based on top important feature. \
 All code with Python \
