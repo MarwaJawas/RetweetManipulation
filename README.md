@@ -5,7 +5,7 @@ This repository contains the source code of my master's thesis :mortar_board: ti
  you can find it in this link in [Thesis](<https://kausp.sa/Details/Thesis/146506/>)
 
 Thesis has been proposed a new method that detects fake retweeter's based on their Twitter's connection and some features. It consists of 4 components:<br>
-1. Collecting data Using Twitter API 
+1. Collecting data using Twitter API 
 2. Extracting data and building a database 
 3. Building a graph based on user's retweeting activity 
 4. Extracting the groups of retweeters
