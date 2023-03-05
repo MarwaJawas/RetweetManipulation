@@ -7,9 +7,9 @@ In line 45, set your file name
 ```
 with open('your_File_Name.json','r') as reader:
 ```
-In line 28, set your database name
+In line 55, set your database name
 ```
-red_text_tweet(group_id,members_id ,'your_Database_Name.db')
+create_graph(group_id,members_id ,'your_File_Name.db')
 ```
 ## Second, categorizing the retweeter groups by looking at the content of the retweets. 
 Twitter rules and policies were used as a reference for labeling process. The group is labeled as malicious if their tweets content shows one of the following: <br />
