@@ -28,3 +28,5 @@ In line 28, set your database name
 ```
 red_text_tweet(group_id,members_id ,'your_Database_Name.db')
 ```
+
+file [example_labeled_group](<https://github.com/MarwahJawas/detect_Fake_Retweeters/blob/master/annotation/example_labeled_group.json>) is example of annotation
