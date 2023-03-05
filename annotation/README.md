@@ -12,7 +12,7 @@ image.
 + Their tweets contains similar URL to drive traffic to websites.
 + Their tweets contains mentions of similar accounts.
 
-download [read_Tweets](<https://github.com/MarwahJawas/detect_Fake_Retweeters/blob/master/annotation/read_Tweets.py>)
+download [read_Tweets](<https://github.com/MarwahJawas/detect_Fake_Retweeters/blob/master/annotation/read_Tweets.py>) <br>
 In line 17, set your file name
 ```
 with open("your_File_Name.json",'r') as reader:
