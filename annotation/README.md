@@ -13,5 +13,8 @@ image.
 + Their tweets contains mentions of similar accounts.
 
 download [!read_Tweets](<https://github.com/MarwahJawas/detect_Fake_Retweeters/blob/master/annotation/read_Tweets.py>)
-In line 55, set your file name
+In line 17, set your file name
+```
+with open("your_File_Name.json",'r') as reader:
+```
 In line 77, set your database name
